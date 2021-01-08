@@ -1,0 +1,7 @@
+E:\quadrate\designpattern\singleton\factorypattern\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+E:\quadrate\designpattern\singleton\factorypattern\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+E:\quadrate\designpattern\singleton\factorypattern\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+E:\quadrate\designpattern\singleton\factorypattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojAssemblyReference.cache
+E:\quadrate\designpattern\singleton\factorypattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+E:\quadrate\designpattern\singleton\factorypattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+E:\quadrate\designpattern\singleton\factorypattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
